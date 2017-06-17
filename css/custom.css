@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Play');
+
+*{
+	font-family: 'Play', sans-serif;
+}
+
+.page-wrapper{
+	margin-left: 1%;
+	margin-right: 4%;
+}
+
+.parallax-container {
+      height: 300px;
+    }
+
+.card-addr{
+	padding: 3%;
+}
+
+.card-content{
+	padding-bottom: 0px;
+}
+
+.userView2{
+	padding: 4%;
+	text-align: center;
+	box-shadow: 10px 10px 5px #888888;
+	background: url('../user/office.jpg');
+}
