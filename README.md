@@ -11,6 +11,8 @@ The functionality is quiet interesting of this one, which are as follows:
 * The dummy wallet feature to award cash to the users for their loyality.
 * A web-based android application for full support of the application.
 
+  Application Project Link : https://drive.google.com/open?id=0B8__dS7xMcA1Z29tT1NjdTlwOFk
+
 
 The project database is present along with the project files.
 The /android folder contains a zipped android project of the present app as of 19th June, 2017.
